@@ -20,6 +20,15 @@
 
 ---
 
+## 📊 GitHub Stats
+
+![Arief's GitHub stats](https://github-readme-stats.vercel.app/api?username=Arfwjn&show_icons=true&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Arfwjn&layout=compact&theme=tokyonight)
+
+
+---
+
 ## 🎯 My Goals
 - Master the basics of **Python** and data processing.  
 - Explore **Machine Learning models** and real-life applications.  
@@ -30,7 +39,7 @@
 ## 📫 How to reach me
 [![Email](https://img.shields.io/badge/Email-arief.sidik.wijayanto%40example.com-red?logo=gmail)](mailto:ariefsidik2016@gmail.com)  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.instagram.com/arfwjn?igsh=YzQ0ZWozc3dnZmRp)  
-[![GitHub](https://img.shields.io/badge/GitHub-YourUsername-black?logo=github)](https://github.com/Arfwjn)  
+[![GitHub](https://img.shields.io/badge/GitHub-Arfwjn-black?logo=github)](https://github.com/Arfwjn)  
 
 ---
 
