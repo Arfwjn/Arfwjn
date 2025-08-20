@@ -37,7 +37,7 @@
 ---
 
 ## 📫 How to reach me
-[![Email](https://img.shields.io/badge/Email-arief.sidik.wijayanto%40example.com-red?logo=gmail)](mailto:ariefsidik2016@gmail.com)  
+[![Email](https://img.shields.io/badge/Email-arief.sidik.wijayanto%40gmail.com-red?logo=gmail)](mailto:ariefsidik2016@gmail.com)  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.instagram.com/arfwjn?igsh=YzQ0ZWozc3dnZmRp)  
 [![GitHub](https://img.shields.io/badge/GitHub-Arfwjn-black?logo=github)](https://github.com/Arfwjn)  
 
